@@ -17,7 +17,7 @@ _______________________________
 ##Что было реализованно:
 
 В коде был реализован прокси-обработчик кэша для вычислений чисел Фибоначчи. 
-Класс [**`FibbonachiCacheProxyHandler`**](https://github.com/Mikhayloves/JDBCExample/blob/main/src/main/java/org/example/cacheProxy/FibbonachiCacheProxyHandler.java) используется для кэширования результатов вычислений чисел Фибоначчи с использованием аннотации @Cachable.
+Класс [**`FibbonachiCacheProxyHandler`**](https://github.com/Mikhayloves/JDBCExample/blob/main/src/main/java/org/example/cacheProxy/FibbonachiCacheProxyHandler.java) используется для кэширования результатов вычислений чисел Фибоначчи с использованием аннотации [**`@Cachable`**](https://github.com/Mikhayloves/JDBCExample/blob/main/src/main/java/org/example/cacheProxy/Cachable.java).
 
 Вот подробное объяснение, что делает данный код:
 
