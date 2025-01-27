@@ -87,6 +87,6 @@ _______________________________
 _______________________________
 ##Результат работы в БД:
 
-[](https://github.com/Mikhayloves/JDBCExample/blob/main/HLqmw3N1jM0.jpg)
+![HLqmw3N1jM0](https://github.com/Mikhayloves/JDBCExample/blob/main/HLqmw3N1jM0.jpg)
 
 
